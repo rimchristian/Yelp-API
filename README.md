@@ -1,4 +1,4 @@
-# Yelp API Data Project of Korean Cuisines in Los Angeles."
+# Yelp API Data Project of Korean Cuisines in Los Angeles.
 
 
 ## Project Description:
