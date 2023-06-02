@@ -7,7 +7,7 @@ I am obsessed with all korean food and love sharing people around the world abou
 This data project showcases feature engineering and geospatial visualization of Yelp search results for Korean cuisines in Los Angeles. The project aims to provide insights into the distribution and characteristics of Korean restaurants in the Los Angeles area. 
 
 ## Project Structure:
-For this project, I wanted to extract data from the Yelp API and explore the LA food scene.  I mainly performed API Extraction in a JSON file, then converted into a pandas dataframe. Once I got my API key from Yelp API, I loaded the data into a JSON file. I defined the terms by creating the Location and Term keyword. 
+For this project, I wanted to extract data from the Yelp API and explore the LA food scene.  I mainly performed API Extraction, then converted into a pandas dataframe. Once I got my API key from Yelp API, I loaded the data into a JSON file and cleaned the data. I defined the terms by creating the Location and Term keyword. 
 
 ## Table of Contents
 - Data
