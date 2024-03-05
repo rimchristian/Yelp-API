@@ -29,6 +29,8 @@ Key features include data cleaning, exploratory data analysis, and geospatial vi
 ### Results
 The project culminates in a geospatial visualization illustrating the distribution of Korean restaurants in Los Angeles. This interactive map provides insights into restaurant locations, ratings, and price ranges, facilitating a deeper understanding of their distribution across the city.
 
+<img width="790" alt="Screen Shot 2024-03-05 at 5 02 39 PM" src="https://github.com/rimchristian/Yelp-API/assets/74616874/d83722cf-bb39-4a5e-a86d-dd4f35375495">
+
 
 ### Acknowledgements
 The Yelp Fusion API (https://www.yelp.com/fusion) served as the primary data source for this project, inspired by the desire to explore and visualize Korean cuisines in Los Angeles.
